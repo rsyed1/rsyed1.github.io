@@ -1,5 +1,4 @@
-![profilepic](profilepic2.jpeg)
-
+![profilepic](profilepic2.jpeg)  
 **Software Engineer | Data Scientist**<br/>
 Dallas/Fort-Worth Area
 
