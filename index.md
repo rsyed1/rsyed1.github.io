@@ -8,6 +8,7 @@ Dallas/Fort-Worth Area
 
 _Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Looking for challenging opportunities to deliver tangible, measurable business while enhancing customer experience by leveraging my skills is software development and data analytics to analyze, design, develop and deploy leading-edge products, solutions and systems with focus on information processing and management._
 
+---
 ## Education
 ---
 
@@ -19,6 +20,7 @@ Islamabad, PK (Sep 2008 - June 2012)<br/>
   _Won Rector's Gold Medal for best Final Year Undergrad Project (described below)_<br/>
   _Academic Merit Scholarships_
 
+---
 ## Certifications
 ---
 
@@ -32,6 +34,7 @@ Udacity (Feb 2019)
 **Data Scientist with R Certification**<br/>
 DataCamp (Dec 2018 - Jan 2019)
 
+---
 ## Experience
 ---
 
@@ -74,6 +77,7 @@ experience and reduce churn (using Java/Eclipse, IBM Weblogic/Clearcase, Jenkins
 promotional campaigns on churn rates using SQL, MS Access, and MS Excel. Created dynamic data views and
 generated trend analysis reports to present to VP for business recommendations.
 
+---
 ## Skills
 ---
 
@@ -86,6 +90,7 @@ Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
 
 - **Analytics:** MS Office/Pivot Tables, Tableau, IBM Watson Studio, Amazon SageMaker
 
+---
 ## Honors/Awards
 ---
 
@@ -119,6 +124,7 @@ Islamabad, PK (2007)
 
 - Devoloped Protocol for mobile phone initiated registration and SMS based upload of local information to a web exchange.
 
+---
 ## Projects
 ---
 
