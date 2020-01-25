@@ -1,5 +1,8 @@
-Software Engineer | Data Scientist 
-<br>Dallas/Fort-Worth Area
+![](https://github.com/rsyed1/rsyed1.github.io/blob/master/profilepic.png)
+
+**Software Engineer | Data Scientist**<br/>
+
+**Dallas/Fort-Worth Area**
 
 [LinkedIn](https://www.linkedin.com/in/raheel-syed) | [Kaggle](https://www.kaggle.com/raheelsyed) | [Contact](mailto:raheelsyed2@gmail.com)
 
