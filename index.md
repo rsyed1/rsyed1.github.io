@@ -1,4 +1,4 @@
-![](https://github.com/rsyed1/rsyed1.github.io/blob/master/3BEADF50-8634-46BC-8B63-6254B8A0C6A9_4_5005_c.jpeg)
+![profilepic](https://github.com/rsyed1/rsyed1.github.io/blob/master/profilepic2.jpeg)
 
 **Software Engineer | Data Scientist**<br/>
 Dallas/Fort-Worth Area
