@@ -1,4 +1,3 @@
-# Raheel Syed
 Software Engineer | Data Scientist 
 <br>Dallas/Fort-Worth Area
 
