@@ -9,6 +9,7 @@ Dallas/Fort-Worth Area
 _Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Looking for challenging opportunities to deliver tangible, measurable business while enhancing customer experience by leveraging my skills is software development and data analytics to analyze, design, develop and deploy leading-edge products, solutions and systems with focus on information processing and management._
 
 ## Education
+---
 
 **M.Eng. Computer Science - Cornell University**<br/>
 Ithaca, NY (Aug 2012 - June 2013)
@@ -19,6 +20,7 @@ Islamabad, PK (Sep 2008 - June 2012)<br/>
   _Academic Merit Scholarships_
 
 ## Certifications
+---
 
 **IBM Data Science Professional Certificate (9 Course Specialization by IBM)**<br/>
 Coursera(Apr 2019 - May 2019) [Certificate Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/KHDP4QDNG77J)<br/>
@@ -31,6 +33,7 @@ Udacity (Feb 2019)
 DataCamp (Dec 2018 - Jan 2019)
 
 ## Experience
+---
 
 **MTS II - Systems/Software Engineer, Verizon Data Services**<br/>
 Irving, TX (May 2017 - Dec 2019)
@@ -72,6 +75,7 @@ promotional campaigns on churn rates using SQL, MS Access, and MS Excel. Created
 generated trend analysis reports to present to VP for business recommendations.
 
 ## Skills
+---
 
 - **Language/Frameworks:** Java, Python/Jupyter Notebook, R , XML/XSLT, C++, MATLAB, Eclipse, Visual
 Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
@@ -83,6 +87,7 @@ Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
 - **Analytics:** MS Office/Pivot Tables, Tableau, IBM Watson Studio, Amazon SageMaker
 
 ## Honors/Awards
+---
 
 **Spotlight Award: Customer Experience Improvement**<br/>
 Verizon Data Services (Feb 2018)
@@ -115,6 +120,7 @@ Islamabad, PK (2007)
 - Devoloped Protocol for mobile phone initiated registration and SMS based upload of local information to a web exchange.
 
 ## Projects
+---
 
 **Kaggle - Home Sale Price Prediction**<br/>
 May 2019
