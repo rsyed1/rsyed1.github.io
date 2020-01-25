@@ -1,37 +1,129 @@
-## Welcome to GitHub Pages
+# Raheel Syed
+Software Engineer | Data Scientist 
+<br>Dallas/Fort-Worth Area
 
-You can use the [editor on GitHub](https://github.com/rsyed1/rsyed1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/raheel-syed) | [Kaggle](https://www.kaggle.com/raheelsyed) | [Contact](mailto:raheelsyed2@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Executive Summary
 
-### Markdown
+_Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Looking for challenging opportunities to deliver tangible, measurable business while enhancing customer experience by leveraging my skills is software development and data analytics to analyze, design, develop and deploy leading-edge products, solutions and systems with focus on information processing and management._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+**M.Eng. Computer Science - Cornell University**<br/>
+Ithaca, NY (Aug 2012 - June 2013)
 
-# Header 1
-## Header 2
-### Header 3
+**B.S. Information & Communication Systems Engineering - NUST**<br/>
+Islamabad, PK (Sep 2008 - June 2012)<br/>
+  _Won Rector's Gold Medal for best Final Year Undergrad Project (described below)_<br/>
+  _Academic Merit Scholarships_
 
-- Bulleted
-- List
+## Certifications
 
-1. Numbered
-2. List
+**IBM Data Science Professional Certificate (9 Course Specialization by IBM)**<br/>
+Coursera(Apr 2019 - May 2019) [Certificate Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/KHDP4QDNG77J)<br/>
+_Recommendation System: Restaurant opening recommendation in NYC neighborhoods using kNN model on public NYC json data-set and Foursquare location API **[Capstone Project](https://github.com/rsyed1/Coursera_Capstone)** to identify and display NYC map of saturated markets._<br/>
 
-**Bold** and _Italic_ and `Code` text
+**Data Visualization with Tableau**<br/>
+Udacity (Feb 2019)
 
-[Link](url) and ![Image](src)
-```
+**Data Scientist with R Certification**<br/>
+DataCamp (Dec 2018 - Jan 2019)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Experience
 
-### Jekyll Themes
+**MTS II - Systems/Software Engineer, Verizon Data Services**<br/>
+Irving, TX (May 2017 - Dec 2019)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rsyed1/rsyed1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **IT Team Lead:** Led various ordering/billing projects through all stages of SDLC. Led code reviews, testing and
+release with team of 5 developers. Received 4 spotlight awards from VP for significant impact on key projects.<br/>
 
-### Support or Contact
+- **Consolidate Order & Billing Management Applications:** Managed BPO operations; Worked in distributed
+environment to deliver improved customer experience using various tools (Java, SQL, Weblogic, SoapUI,
+Jenkins). Worked with onsite and offshore teams to design and develop applications for a unified billing
+management system. Seamlessly converted 10M + customers to unified billing system as part of system
+consolidation efforts.<br/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Operations Analysis:** Used SQL queries across multiple data sources/schemas with Excel pivot tables to
+monitor/support production operation team efficiency and resolve escalations with cross-team engagement.
+Reduced production customer order/billing issues by 40%.<br/>
+
+- **DevOps:** Used GIT/Stash, JIRA, Confluence, ServiceNow to improve application monitoring and efficiency.<br/>
+
+- **System Maintenance:** Involved in numerous application and web service disaster recovery (DR) testing;
+custodian of multiple web service APIs for internal/external clients for billing application<br/>
+
+- **Verizon Seeking Sages Hackathon:** Implemented Netflix movie recommendation via data wrangling millions
+of customer history with S3 buckets. Combined data with external imdb dataset using Amazon Aurora
+integration in Amazon SageMaker
+
+**MTS I - Systems/Software Engineer, Verizon Data Services**<br/>
+Irving, TX (July 2013 - April 2017)
+
+- **Process Improvement:** Developed coding guidelines, modified database structures, promoted stream-lined
+code development via incorporating XML/XSLT, DROOLS; Enhanced code readability practices across the
+team. Researched code review tools such as SONAR, FindBugs to improve team coding standards.<br/>
+
+- **Customer Experience:** Developed, tested and deployed code for various billing projects to improve customer
+experience and reduce churn (using Java/Eclipse, IBM Weblogic/Clearcase, Jenkins, Oracle SQL, XSLT, DROOLS).<br/>
+
+- **Data Analytics:** Collected and analyzed data from multiple sources to analyze impact of targeted 3-month
+promotional campaigns on churn rates using SQL, MS Access, and MS Excel. Created dynamic data views and
+generated trend analysis reports to present to VP for business recommendations.
+
+## Skills
+
+- **Language/Frameworks:** Java, Python/Jupyter Notebook, R , XML/XSLT, C++, MATLAB, Eclipse, Visual
+Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
+
+- **Databases:** Oracle SQL Developer, TOAD, MySQL, MS Access, Amazon Aurora<br/>
+
+- **DevOps/Management:** Git/Gitlab, OneStash, JIRA, Jenkins, Atlassian Confluence, ServiceNow, ClearCase<br/>
+
+- **Analytics:** MS Office/Pivot Tables, Tableau, IBM Watson Studio, Amazon SageMaker
+
+## Honors/Awards
+
+**Spotlight Award: Customer Experience Improvement**<br/>
+Verizon Data Services (Feb 2018)
+
+- Award for contribution toward complex marketing program which provided incentive offers for customers with wireless and wireless bundled services. Improved the billing processes to enrich customer experience.
+
+**Spotlight Award: FiOS Prepaid Program**<br/>
+Verizon Data Services (Feb 2017)
+
+- Award for contribution to the FiOS Prepaid Program to provide prepaid FiOS service option to attract customers who do not have strong credit history. Reduce churn by providing FiOS options for this market segment.
+
+**Spotlight Award: Streamlining IT Operations**<br/>
+Verizon Data Services (Feb 2016)
+
+- Award for contribution to the Single Biller Program for streamlining the billing processes and enriching customer experience. Reduced customer complaints and billing disputes due to process improvements.
+
+**Spotlight Award: Single Biller Program**<br/>
+Verizon Data Services (2014)
+
+- Award for contribution to the Single Biller Program for consolidating legacy billing systems to streamline the overall billing process and enriching customer experience.
+
+**Gold Medal for Best Undergraduate Project: IFIS**<br/>
+National University of Science & Technology, PK (July 2013)
+
+- Team Lead for Final Year Undergrad Project. Developed the Intelligent Farm Information System (IFIS), A dynamic, self-learning web exchange framework which integrates web services along with real-time and legacy data sources to provide timely advice to maximize crop yield and financial returns for the farmers.
+
+**Intel Science Olympiad: Best Individual Project in Computer Science**<br/>
+Islamabad, PK (2007)
+
+- Devoloped Protocol for mobile phone initiated registration and SMS based upload of local information to a web exchange.
+
+## Projects
+
+**Kaggle - Home Sale Price Prediction**<br/>
+May 2019
+- Kaggle competition to predict sale prices for homes in Ames, Iowa (https://www.kaggle.com/c/home-data-for-ml-course).
+- Used various filtering/validation tools like train-test split, imputation, cross-validation and regression techniques like decision trees, random forests and XGBoost to improve accuracy rate (based on MSE score). Currently ranked in top 19%. [Link](https://www.kaggle.com/raheelsyed)
+
+**Cornell University: M.Eng. Project**<br/>
+Ithaca, NY (Jan 2013)
+
+- GUI design for the Cornell Cup presented by Intel (An embedded technology based robotics design and path-finding competition). Developed robot game simulations and Improved robot control options through keyboard and mouse interface.
+
+---
