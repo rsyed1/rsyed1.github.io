@@ -35,6 +35,19 @@ Udacity (Feb 2019)
 DataCamp (Dec 2018 - Jan 2019)
 
 ---
+## Skills
+---
+
+- **Language/Frameworks:** Java, Python/Jupyter Notebook, R , XML/XSLT, C++, MATLAB, Eclipse, Visual
+Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
+
+- **Databases:** Oracle SQL Developer, TOAD, MySQL, MS Access, Amazon Aurora<br/>
+
+- **DevOps/Management:** Git/Gitlab, OneStash, JIRA, Jenkins, Atlassian Confluence, ServiceNow, ClearCase<br/>
+
+- **Analytics:** MS Office/Pivot Tables, Tableau, IBM Watson Studio, Amazon SageMaker
+
+---
 ## Experience
 ---
 
@@ -50,7 +63,7 @@ Jenkins). Worked with onsite and offshore teams to design and develop applicatio
 management system. Seamlessly _**converted 10M + customers to unified billing system**_ as part of system
 consolidation efforts.<br/>
 
-- **Operations/Churn Analysis:** Used SQL queries across multiple data sources/schemas with Excel pivot tables to monitor/support production operation team efficiency and resolve escalations with cross-team engagement. Drastically reduced production customer order/billing issues by 40%. Led daily RCA efforts using millions of customer order history data across diverse Oracle databases to see how to improve order on-time completion rate.<br/>
+- **Operations/Churn Analysis:** Used SQL queries across multiple data sources/schemas with Excel pivot tables to monitor/support production operation team efficiency and resolve escalations with cross-team engagement. _**Drastically reduced production customer order/billing issues by 40%.**_ Led daily RCA efforts using millions of customer order history data across diverse Oracle databases to see how to improve order on-time completion rate.<br/>
 
 - **Billing Analytics:** Led cross-team RCA efforts to analysis why customer bill amounts not as expected and resolve VP level escalations in timely manner. Proposed and created new web tools for revenue assurance and ops support teams to allow dynamic updates to customer profile to fix billing anomalies and prevent churn _**(Received VP spotlight award for reducing escalation turnaround time by 50% as a result)**_.<br/>
 
@@ -74,19 +87,6 @@ team. Researched code review tools such as SONAR, FindBugs to improve team codin
 
 - **Customer Experience:** Developed, tested and deployed code for various billing projects to improve customer
 experience and reduce churn (using Java/Eclipse, IBM Weblogic/Clearcase, Jenkins, Oracle SQL, XSLT, DROOLS).<br/>
-
----
-## Skills
----
-
-- **Language/Frameworks:** Java, Python/Jupyter Notebook, R , XML/XSLT, C++, MATLAB, Eclipse, Visual
-Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
-
-- **Databases:** Oracle SQL Developer, TOAD, MySQL, MS Access, Amazon Aurora<br/>
-
-- **DevOps/Management:** Git/Gitlab, OneStash, JIRA, Jenkins, Atlassian Confluence, ServiceNow, ClearCase<br/>
-
-- **Analytics:** MS Office/Pivot Tables, Tableau, IBM Watson Studio, Amazon SageMaker
 
 ---
 ## Honors/Awards
