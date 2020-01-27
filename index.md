@@ -47,12 +47,12 @@ release with team of 5 developers. Received 4 spotlight awards from VP for signi
 - **Consolidate Order & Billing Management Applications:** Managed BPO operations; Worked in distributed
 environment to deliver improved customer experience using various tools (Java, SQL, Weblogic, SoapUI,
 Jenkins). Worked with onsite and offshore teams to design and develop applications for a unified billing
-management system. Seamlessly converted 10M + customers to unified billing system as part of system
+management system. Seamlessly _**converted 10M + customers to unified billing system**_ as part of system
 consolidation efforts.<br/>
 
-- **Operations Analysis:** Used SQL queries across multiple data sources/schemas with Excel pivot tables to
-monitor/support production operation team efficiency and resolve escalations with cross-team engagement.
-Reduced production customer order/billing issues by 40%.<br/>
+- **Operations/Churn Analysis:** Used SQL queries across multiple data sources/schemas with Excel pivot tables to monitor/support production operation team efficiency and resolve escalations with cross-team engagement. Drastically reduced production customer order/billing issues by 40%. Led daily RCA efforts using millions of customer order history data across diverse Oracle databases to see how to improve order on-time completion rate.<br/>
+
+- **Billing Analytics:** Led cross-team RCA efforts to analysis why customer bill amounts not as expected and resolve VP level escalations in timely manner. Proposed and created new web tools for revenue assurance and ops support teams to allow dynamic updates to customer profile to fix billing anomalies and prevent churn _**(Received VP spotlight award for reducing escalation turnaround time by 50% as a result)**_.<br/>
 
 - **DevOps:** Used GIT/Stash, JIRA, Confluence, ServiceNow to improve application monitoring and efficiency.<br/>
 
@@ -66,16 +66,14 @@ integration in Amazon SageMaker
 **MTS I - Systems/Software Engineer, Verizon Data Services**<br/>
 Irving, TX (July 2013 - April 2017)
 
+- **Verizon Promotional Campaign Churn Impact Analysis:** Collected and analyzed data from multiple sources to analyze impact of targeted 3-month promotional campaigns on churn rates using Oracle SQL, MS Access, and MS Excel. Created dynamic data views and generated trend analysis reports presented to department VP for recommendations
+
 - **Process Improvement:** Developed coding guidelines, modified database structures, promoted stream-lined
 code development via incorporating XML/XSLT, DROOLS; Enhanced code readability practices across the
 team. Researched code review tools such as SONAR, FindBugs to improve team coding standards.<br/>
 
 - **Customer Experience:** Developed, tested and deployed code for various billing projects to improve customer
 experience and reduce churn (using Java/Eclipse, IBM Weblogic/Clearcase, Jenkins, Oracle SQL, XSLT, DROOLS).<br/>
-
-- **Data Analytics:** Collected and analyzed data from multiple sources to analyze impact of targeted 3-month
-promotional campaigns on churn rates using SQL, MS Access, and MS Excel. Created dynamic data views and
-generated trend analysis reports to present to VP for business recommendations.
 
 ---
 ## Skills
