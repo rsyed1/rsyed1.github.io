@@ -51,7 +51,8 @@ Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
 ## Experience
 ---
 
-**MTS II - Systems/Software Engineer, Verizon Data Services**<br/>
+**MTS II - Systems Software Engineer/Business Analyst**<br/>
+**Verizon Data Services**<br/>
 Irving, TX (May 2017 - Dec 2019)
 
 - **IT Team Lead:** Led various ordering/billing projects through all stages of SDLC. Led code reviews, testing and
@@ -76,7 +77,8 @@ custodian of multiple web service APIs for internal/external clients for billing
 of customer history with S3 buckets. Combined data with external imdb dataset using Amazon Aurora
 integration in Amazon SageMaker
 
-**MTS I - Systems/Software Engineer, Verizon Data Services**<br/>
+**MTS I - Systems Software Engineer/Business Analyst**<br/>
+**Verizon Data Services**<br/>
 Irving, TX (July 2013 - April 2017)
 
 - **Verizon Promotional Campaign Churn Impact Analysis:** Collected and analyzed data from multiple sources to analyze impact of targeted 3-month promotional campaigns on churn rates using Oracle SQL, MS Access, and MS Excel. Created dynamic data views and generated trend analysis reports presented to department VP for recommendations
