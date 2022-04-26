@@ -1,5 +1,6 @@
-![profilepic](profilepic2.jpeg)  
-**Software Engineer | Data Scientist**<br/>
+<img src="snowpic01.jpg" width="250" height="250"><br/>
+<!--![profilepic](snowpic01.jpg | width=100)  -->
+**Software Engineer**<br/>
 Dallas/Fort-Worth Area
 
 [LinkedIn](https://www.linkedin.com/in/raheel-syed) | [Kaggle](https://www.kaggle.com/raheelsyed) | [Contact](mailto:raheelsyed2@gmail.com)
@@ -24,6 +25,10 @@ Islamabad, PK (Sep 2008 - June 2012)<br/>
 ## Certifications
 ---
 
+
+**AWS Solutions Architect Associate**<br/>
+Amazon Web Services (Jun 2021)
+
 **IBM Data Science Professional Certificate (9 Course Specialization by IBM)**<br/>
 Coursera(Apr 2019 - May 2019) [Certificate Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/KHDP4QDNG77J)<br/>
 _Recommendation System: Restaurant opening recommendation in NYC neighborhoods using kNN model on public NYC json data-set and Foursquare location API **[Capstone Project](https://github.com/rsyed1/Coursera_Capstone)** to identify and display NYC map of saturated markets._<br/>
@@ -41,7 +46,11 @@ DataCamp (Dec 2018 - Jan 2019)
 - **Language/Frameworks:** Java, Python/Jupyter Notebook, R , XML/XSLT, C++, MATLAB, Eclipse, Visual
 Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
 
-- **Databases:** Oracle SQL Developer, TOAD, MySQL, MS Access, Amazon Aurora<br/>
+- **Databases:** Oracle SQL Developer, TOAD, MySQL, MS Access, Amazon Aurora, Amazon DynamoDB, PostgreSQL<br/>
+
+- **Tech Tools:** Splunk, SonarQube, Apache Kafka
+
+- **Testing/Performance:** Junit, Mockito, Postman, Cucumber, JMeter
 
 - **DevOps/Management:** Git/Gitlab, OneStash, JIRA, Jenkins, Atlassian Confluence, ServiceNow, ClearCase<br/>
 
@@ -50,6 +59,20 @@ Studio, SoapUI, DROOLS, LINUX, Shell/Bash<br/>
 ---
 ## Experience
 ---
+
+**Senior Associate - Software Engineer**<br/>
+**Capital One**<br/>
+Plano, TX (Apr 2020 - Present)
+
+- **Q3 2021 Mark of Distinction Recipient:** Key contributions towards migration of 5 million+ auto loan accounts to the cloud.<br/>
+
+- **Components Built:** RESTful API, Kafka Streams, Springboot Applications.<br/>
+
+- **Tech Tools:** AWS (DynamoDB, SQS, ECS, IAM, KMS), PostgreSQL, Splunk, SonarQube, Jenkins, GitHub, Kafka.<br/>
+
+- **Testing/Performance Tools:** Junit, Mockito, Postman, Cucumber, JMeter<br/>
+
+- **Finalist in 2020 AWS DeepRacer Competition**
 
 **MTS II - Systems Software Engineer/Business Analyst**<br/>
 **Verizon Data Services**<br/>
@@ -93,6 +116,16 @@ experience and reduce churn (using Java/Eclipse, IBM Weblogic/Clearcase, Jenkins
 ---
 ## Honors/Awards
 ---
+
+**Mark of Distinction Award**<br/>
+Issued by President, Financial Services, Capital One (Nov 2021)
+
+- Award for key contributions towards migration of business processes to the cloud for 5 million+ auto loan customers.
+
+**Finalist - 2020 AWS DeepRacer Competition**<br/>
+Capital One (Oct 2020)
+
+- Team lead of finalist team in Capital One's AWS DeepRacer League in partnership with AWS. Built car racing models using reinforcement learning.
 
 **Spotlight Award: Customer Experience Improvement**<br/>
 Verizon Data Services (Feb 2018)
